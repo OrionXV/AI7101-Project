@@ -4,3 +4,10 @@
 Pump it Up: Data Mining the Water Table Can you predict which water pumps are faulty to promote access to clean, potable water across Tanzania? This is an intermediate-level practice competition.
 
 Link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
+
+### Stuff left to do:
+- Feature Engineering 
+- Regularization 
+- Plotting 
+- Hyperparameter fine tuning 
+- Performance issues
